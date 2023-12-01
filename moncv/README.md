@@ -9,7 +9,7 @@ La largeur du CV devra être comprise entre 800 et 1200 pixels et avoir une haut
 # Étape 1 : Préparation du Projet
 
 ## Création de la Branche Git via GitHub Desktop :
-
+ 
 - Ouvrez GitHub Desktop et sélectionnez le dépôt du projet.
 
 - Cliquez sur la branche actuelle en haut de l'application pour ouvrir le menu déroulant des branches (normalement la branche que vous voyez est "main").

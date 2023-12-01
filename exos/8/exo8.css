@@ -1,0 +1,37 @@
+body {
+    font-family: Arial, sans-serif;
+    color: beige;
+  }
+   
+h1 {
+    color: darkred;
+}
+
+h2 {
+    color: darkorange;
+}
+
+h3 {
+    color: darkgreen;
+}
+
+p {
+    color: blue;
+    font-size: small;
+    margin: 10%;
+    display: contents;
+}
+
+ul {
+    color: blueviolet;
+    font-size: medium;
+    display: flex;
+    margin: 0%;
+    padding: 1cm;
+}
+
+ol {
+    color: blueviolet;
+    font-size: medium;
+    padding: 40%;
+}
